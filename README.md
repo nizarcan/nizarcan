@@ -7,6 +7,7 @@
 <h3>💻 Tech Stack</h3>
 <p align=center>
   <img alt="aws" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" height="50"/>
+  <img alt="nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50" height="50"/>
   <img alt="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50"/>
   <img alt="kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50"/>
   <img alt="new-relic" src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="50" height="50"/>
