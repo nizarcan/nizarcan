@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm <b>Nizar</b>, Software Engineer from  <img src="https://cdn-icons-png.flaticon.com/512/330/330467.png" width="13"/> <b>Turkey</b>, currently working at <b>getir</b>. </p>
 </div>
 </br>
-<h3>Technologies I use</h3>
+<h3>💻 Tech Stack</h3>
 <p align=center>
   <img alt="aws" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" height="50"/>
   <img alt="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50"/>
