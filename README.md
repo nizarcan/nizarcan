@@ -23,7 +23,6 @@
   <img alt="fastapi" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50"/>
   <img alt="pydantic" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="50" height="50"/>
   <img alt="golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50"/>
-  <img alt="rabbit-mq" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50" height="50"/>
   <img alt="postgres" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" height="50"/>
   <img alt="redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50" height="50"/>
   <img alt="mongo" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50"/>
